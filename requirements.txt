@@ -1,0 +1,2 @@
+# 本项目为纯Python原生实现，无任何第三方依赖库
+# 无需执行 pip install 命令，直接运行 python main.py 即可启动系统
